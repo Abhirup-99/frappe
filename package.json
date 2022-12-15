@@ -32,7 +32,7 @@
     "cssnano": "^5.0.0",
     "driver.js": "^0.9.8",
     "editorjs-undo": "0.1.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-deep-equal": "^2.0.1",
     "frappe-charts": "^2.0.0-rc13",
     "frappe-datatable": "^1.16.4",
